@@ -1,6 +1,6 @@
 # Parallel Matrix Multiplication Analysis
 
-_Individual Assignment — Big Data (Task 1, 2025)_
+_Individual Assignment — Big Data (Task 3, 2025)_
 
 This project implements and benchmarks three different approaches for dense square
 matrix multiplication:
